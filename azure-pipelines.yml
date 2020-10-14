@@ -9,16 +9,16 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: 'test-bc-svc'
+  #azureSubscription: 'test-bc-svc'
   
   # Web app name
-  webAppName: 'testgame-bc'
+  #webAppName: 'testgame-bc'
   
   # Resource group
-  resourceGroupName: 'test-bcRG'
+  #resourceGroupName: 'test-bcRG'
  
   # Environment name
-  environmentName: 'testgame-bc'
+  #environmentName: 'testgame-bc'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
